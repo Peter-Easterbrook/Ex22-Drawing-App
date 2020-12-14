@@ -24,13 +24,16 @@ body {
 canvas {
   border: 2px solid steelblue;
   background-color: #f7f7f7;
+  height: 80vh;
+  width: 60vw;
+  margin: auto;
 }
 
 .toolbox {
-  background-color: steelblue;
-  border: 1px solid slateblue;
+  background-color: #687a8c;
+  border: 1px solid #3e4954;
   display: flex;
-  width: 804px;
+  width: 60vw;
   padding: 1rem;
 }
 
