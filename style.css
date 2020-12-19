@@ -11,7 +11,6 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-
   margin: 0;
   background: rgb(144, 178, 242);
   background: linear-gradient(
@@ -24,8 +23,7 @@ body {
 canvas {
   border: 2px solid steelblue;
   background-color: #f7f7f7;
-  height: 80vh;
-  width: 60vw;
+
   margin: auto;
 }
 
